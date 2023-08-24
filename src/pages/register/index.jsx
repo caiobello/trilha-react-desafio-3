@@ -62,7 +62,7 @@ const Register = () => {
                         Ao clicar em "criar minha conta grátis", declaro que aceito as Políticas de Privacidade e os Termos de Uso da DIO.
                         </SubtitleLogin>
                         <div style={{ display: 'flex', alignItems: 'center' }}>
-                        <Text style={{ marginRight: '10px' }}>Já tenho conta</Text>
+                        <Text style={{ marginRight: '8px' }}>Já tenho conta</Text>
                         <CriarText>Fazer login</CriarText>
                         </div>
                     </div>
